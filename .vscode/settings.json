@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "mocktion/bin/python3",
+    "git.ignoreLimitWarning": true
+}
