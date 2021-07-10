@@ -1,6 +1,6 @@
 import React from 'react';
 import {useState, useEffect} from 'react'
-import AuctionValues from '../data/auction-values.json' ;
+import AuctionValues from '../data/auction-values-2021.json' ;
 import AvailablePlayers from '../components/AvailablePlayers';
 import CurrentTeam from '../components/CurrentTeam';
 // import {AvailablePlayers, CurrentTeam} from '../components/';

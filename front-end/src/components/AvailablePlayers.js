@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import AuctionValues from '../data/auction-values.json';
+import AuctionValues from '../data/auction-values-2021.json';
 import Button from '@material-ui/core/Button';
 
 
